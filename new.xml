@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<employee>
+	<name>Иванов  Иван Иваныч</name>
+	<age>32</age>
+	<pet>0</pet>
+	<salary>500 000 $</salary>
+</employee>
